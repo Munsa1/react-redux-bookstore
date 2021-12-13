@@ -6,9 +6,9 @@ import Books from './Books';
 const BooksPage = () => {
   const bookList = [
     {
-      booktitle: ' 16 Laws of Success',
-      author: ' Napoleon Hill',
-      category: ' Motivational',
+      booktitle: ' The Davincci Code',
+      author: ' Dan Brown',
+      category: ' Mystery',
       id: uuidv4(),
     },
   ];
