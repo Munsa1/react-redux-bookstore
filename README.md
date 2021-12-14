@@ -3,7 +3,7 @@
 > React based single page app.  
 
 # Demo Link
-[Click here](https://mybookstore-app-init.netlify.app)
+[Click here](https://https://jovial-jang-ac8ea6.netlify.app)
 
 # Screenshot
 
