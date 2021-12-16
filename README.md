@@ -3,7 +3,7 @@
 > React based single page app.  
 
 # Demo Link
-[Click here](https://jovial-jang-ac8ea6.netlify.app)
+[Click here](https://jovial-jang-ac8ea6.netlify.app/)
 
 # Screenshot
 
